@@ -9,3 +9,6 @@
   - [Funció exponencial](funcions/exponencial.md)
   - [Funció logarítmica](funcions/logaritmica.md)
   - [Funcions amb arrel](funcions/arrel.md)
+  - [Funcions a trossos](funcions/trossos.md)
+
+---

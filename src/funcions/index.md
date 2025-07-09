@@ -4,6 +4,12 @@ Una **funció** és una relació entre dues magnituds, on a **cada valor d’ent
 
 Dit d’una altra manera, una funció és una regla que assigna a cada valor d’un conjunt (el **domini**) un únic valor d’un altre conjunt (el **codomini**).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Codomain2.SVG" alt="Funció com una màquina" width="400"/>
+
+Il·lustració que mostra \\( f \\), una funció amb domini \\( X \\) i codomini \\( Y \\). L’oval petit dins de \\( Y \\) és la imatge de \\( f \\), de vegades anomenada rang de \\( f \\).
+
+
+
 ## Per a què serveixen?
 
 Les funcions són una eina fonamental per a descriure situacions del món real. Alguns exemples habituals:
